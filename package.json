@@ -1,0 +1,20 @@
+{
+  "name": "revakt",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://kladara.github.io/revakt",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "moment-duration-format": "^1.3.0",
+    "moment-hijri": "^2.0.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
